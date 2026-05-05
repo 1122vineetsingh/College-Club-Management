@@ -107,5 +107,5 @@ This project is open-source and available under the MIT License.
 
 ## 👨‍💻 Author
 
-Anuj Gupta  
+Anuj Gupta, Vineet Singh, Vinit Vishwakarma, Vipin Yadav
 B.Tech CSE (AI)
